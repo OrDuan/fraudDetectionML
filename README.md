@@ -1,6 +1,7 @@
 # fraudDetectionML
 Find outliers based on users history data. I used data.py to generate some random data, saved it on fixtures.py for
 local testing. 
+You can override the get_data method so you can work with your own data.   
 
 
 # How to?
