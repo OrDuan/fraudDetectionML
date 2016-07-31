@@ -10,3 +10,6 @@ execute the run.py file to see:
 - Green triangles - test data that the algorithm things is a normal user.
 - Red triangles - test data that the algorithm things is NOT a normal user - might be fraud!
 - Orange shape - the decision boundary of the algorithm. 
+
+# Example of trained classifier
+![alt tag](http://scikit-learn.org/stable/_images/plot_oneclass_001.png)
